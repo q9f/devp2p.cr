@@ -1,8 +1,6 @@
 # devp2p.cr
 
 [![Build Status](https://img.shields.io/github/workflow/status/q9f/devp2p.cr/Nightly)](https://github.com/q9f/devp2p.cr/actions)
-<!-- [![Documentation](https://img.shields.io/badge/docs-html-black)](https://q9f.github.io/devp2p.cr/)
-[![Release](https://img.shields.io/github/v/release/q9f/devp2p.cr?include_prereleases&color=black)](https://github.com/q9f/devp2p.cr/releases/latest) -->
 [![Language](https://img.shields.io/github/languages/top/q9f/devp2p.cr?color=black)](https://github.com/q9f/devp2p.cr/search?l=crystal)
 [![License](https://img.shields.io/github/license/q9f/devp2p.cr.svg?color=black)](LICENSE)
 
