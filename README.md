@@ -6,8 +6,7 @@
 
 a native library implementing `devp2p` purely for the crystal language. `devp2p` is the underlying networking protocol built for and used by ethereum.
 
-this library allows for:
-- _nothing_; it's still work in progress.
+track initial library release progress: [#1](https://github.com/q9f/devp2p.cr/issues/1)
 
 # installation
 
@@ -19,10 +18,6 @@ dependencies:
     github: q9f/devp2p.cr
     version: "~> 0.1"
 ```
-
-# usage
-
-_stay tuned._
 
 # testing
 
