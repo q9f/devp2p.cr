@@ -1,0 +1,14 @@
+name: devp2p
+version: 0.1.0
+
+authors:
+  - /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
+
+crystal: 0.32.1
+
+license: APLv2
+
+dependencies:
+  secp256k1:
+    github: q9f/secp256k1.cr
+    version: "~> 0.2"
