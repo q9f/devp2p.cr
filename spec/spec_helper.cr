@@ -13,4 +13,6 @@
 # limitations under the License.
 
 require "spec"
-require "../src/devp2p"
+require "../src/devp2p.cr"
+require "../src/identity.cr"
+require "../src/version.cr"
