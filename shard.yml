@@ -4,7 +4,7 @@ version: 0.1.0
 authors:
   - /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
 
-crystal: 0.32.1
+crystal: 0.34.0
 
 license: APLv2
 
