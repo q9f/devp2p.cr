@@ -15,7 +15,4 @@
 require "./spec_helper"
 
 describe Devp2p do
-  it "works" do
-    true.should eq(true)
-  end
 end

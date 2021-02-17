@@ -12,7 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-require "spec"
-require "../src/devp2p.cr"
-require "../src/identity.cr"
-require "../src/version.cr"
+module Devp2p
+  VERSION = "0.1.0"
+end
